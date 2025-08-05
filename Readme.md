@@ -129,7 +129,7 @@ Fact: Revenue per customer is dropping across newer cohorts (2022–2024), despi
 ## Technical Details 
 
 - **Database** PostgreSQL 
-- **Analysis Tools** PostgreSQL 
+- **Analysis Tools** PostgreSQL, DBeaver, PGadmin
 - **Visulaization** ChatGPT 
 
 
